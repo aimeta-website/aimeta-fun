@@ -4,6 +4,8 @@ Independent static portal for **aimeta.fun**. Free browser games and creative ex
 
 Based on the shared pixel / voxel design language of [aimeta.website](https://github.com/aimeta-website/aimeta-website.github.io): pixel accents, Inter body text, thick borders, offset shadows and cube branding. The content is adapted into a dedicated brand homepage with its own navigation and metadata.
 
+The AIMeta Fun ecosystem also includes the live [Minecraft Bedrock multiplayer server](https://minecraft.aimeta.fun).
+
 ## Files
 
 - `index.html`: brand homepage, current project links and clearly labelled plans.
