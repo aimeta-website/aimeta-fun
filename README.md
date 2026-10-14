@@ -1,6 +1,6 @@
 # AIMeta Fun
 
-Independent static portal for **aimeta.fun**. Free browser games and creative experiments from AIMeta. Play the Game Arcade and explore the Halifax Planet concept.
+Independent static portal for **aimeta.fun**. Free browser games and creative experiments from AIMeta. Explore the Game Arcade and Latiao Prince, discover the upcoming Card Battle at https://card.aimeta.fun, and explore the Halifax Planet concept.
 
 Based on the shared pixel / voxel design language of [aimeta.website](https://github.com/aimeta-website/aimeta-website.github.io): pixel accents, Inter body text, thick borders, offset shadows and cube branding. The content is adapted into a dedicated brand homepage with its own navigation and metadata.
 
